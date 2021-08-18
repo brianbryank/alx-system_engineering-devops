@@ -1,4 +1,5 @@
 #!/bin/bash
 echo "pwd"
+
 #!/bin/bash
-echo "pwd"
+echo $(pwd)
