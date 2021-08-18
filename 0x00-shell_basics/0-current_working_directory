@@ -1,2 +1,9 @@
 #!/bin/bash
 echo "pwd"
+
+echo "(4 chars long)
+
+[Expected]
+/tmp/correction/3040213389319931343000881287745725432828_2/205/2211/0x00-shell_basics
+
+(86 chars long)"
