@@ -1,3 +1,2 @@
 #!/bin/bash
- ls -amp . You12:46 AM
-ln -s /bin/ls _ls_ . C P12:48 AM
+ls -pamv
