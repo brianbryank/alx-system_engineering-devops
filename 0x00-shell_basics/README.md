@@ -1,1 +1,2 @@
-Hello world, Do hard things
+#!/bin/bash pwd
+/root/alx-system_engineering-devops/0x00-shell_basics
