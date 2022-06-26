@@ -1,7 +1,7 @@
 # Create a file in /tmp
 
 file { 'school':
-  ensure  => 'present',
+  ensure  => 'absent',
   content => 'I love Puppet',
   group   => 'www-data',
   mode    => '0744',
